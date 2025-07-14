@@ -6,7 +6,7 @@ This repository contains a Computer Vision project focused on detecting safety h
 
 ## ✨ Key Features:
 
-*   **End-to-End Pipeline:** Covers dataset preparation, YOLOv8 model fine-tuning, comprehensive evaluation, and model export for deployment.
+*   **End-to-End Pipeline:** Covers dataset preparation, YOLOv8 model fine-tuning, comprehensive evaluation.
 *   **YOLOv8 Object Detection:** Employs the cutting-edge YOLOv8s model from Ultralytics, fine-tuned for specific object detection (helmet, head, person).
 *   **Custom Dataset Integration:** Demonstrates handling and preparing a custom dataset for YOLOv8 training.
 *   **Professional Training:** Utilizes efficient training practices within the Ultralytics framework.
