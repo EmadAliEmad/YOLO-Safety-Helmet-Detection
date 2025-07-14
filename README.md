@@ -132,7 +132,7 @@ You can find all generated evaluation plots and metrics in the `runs/detect/trai
 ## 📞 Contact:
 
 *   **Your Name:** Emad Ali Emad
-*   **LinkedIn:** [[](https://www.linkedin.com/in/emad-ali-emad-886647199/)]
+*   **LinkedIn:** [(https://www.linkedin.com/in/emad-ali-emad-886647199/)]
 *   **Email:** [emadaliemad375@gmail.com]
 
 ---
